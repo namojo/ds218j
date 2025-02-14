@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-ARCH=aarch64
+ARCH=armhf
 DOCKER_VERSION=20.10.9
 DOCKER_DIR=/volume1/@docker
 
